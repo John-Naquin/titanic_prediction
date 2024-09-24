@@ -1,6 +1,6 @@
-const About = () => {
+function About() {
     return (
-        <div>
+        <div className="text-2xl font-bold underline">
             About Page
         </div>
     );
