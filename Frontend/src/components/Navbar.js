@@ -26,6 +26,12 @@ const Navbar = () => {
                 >
                   About
                 </Link>
+                <Link
+                  to="/predictor"
+                  className="text-blue hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                >
+                  Predictor
+                </Link>
               </div>
             </div>
           </div>
